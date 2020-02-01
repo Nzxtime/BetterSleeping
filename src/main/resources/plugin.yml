@@ -1,0 +1,6 @@
+name: BetterSleeping
+version: ${project.version}
+main: laserlord.bettersleeping.BetterSleeping
+api-version: 1.13
+authors: [Laserlord]
+description: This plugin reduces the amount of players needed to skip the night.
